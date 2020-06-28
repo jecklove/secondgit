@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+label.error {
+	margin-left: 10px;
+	font-weight: bold;
+	color: #EA5200;
+}
